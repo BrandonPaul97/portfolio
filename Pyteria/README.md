@@ -1,5 +1,3 @@
-**This Git repo may contain confidential information. Sharing its contents is prohibited.**
-
 # Pyteria
 <img src="https://raw.githubusercontent.com/BrandonPaul97/portfolio/main/Pyteria/Data/etc/logo.png?raw=true" width="200" height="200">
 
