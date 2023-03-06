@@ -1,5 +1,5 @@
 # Conduct
-<img src="https://raw.githubusercontent.com/BrandonPaul97/portfolio/main/Conduct/etc/conduct_photo.png?raw=true" width="2781" height="1440">
+<img src="https://raw.githubusercontent.com/BrandonPaul97/portfolio/main/Conduct/etc/conduct_photo.png?raw=true" width="1390" height="720">
 
 ## DESRIPTION
 
