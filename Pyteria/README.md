@@ -1,7 +1,7 @@
 **This Git repo may contain confidential information. Sharing its contents is prohibited.**
 
 # Pyteria
-<img src="https://github.com/Uraxii/pyteria/blob/main/Data/etc/logo.png?raw=true" width="200" height="200">
+<img src="https://raw.githubusercontent.com/BrandonPaul97/portfolio/main/Pyteria/Data/etc/logo.png?raw=true" width="200" height="200">
 ## About
 This program is designed to scan setup.py file, idenitfy potenitally malicious code, and provide a severity rating.\
 All generated reports are stored in /Modules/Reports\
