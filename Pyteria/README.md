@@ -2,6 +2,7 @@
 
 # Pyteria
 <img src="https://raw.githubusercontent.com/BrandonPaul97/portfolio/main/Pyteria/Data/etc/logo.png?raw=true" width="200" height="200">
+
 # About
 This program is designed to scan setup.py file, idenitfy potenitally malicious code, and provide a severity rating.\
 All generated reports are stored in /Modules/Reports\
